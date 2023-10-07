@@ -1,0 +1,7 @@
+{
+  "name": "RosarioLive-APK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

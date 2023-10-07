@@ -1,0 +1,8 @@
+{
+	"appId": "io.RosarioLive.starter",
+	"appName": "RosarioLive",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	}
+}

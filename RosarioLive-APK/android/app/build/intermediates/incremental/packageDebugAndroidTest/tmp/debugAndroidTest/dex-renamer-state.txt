@@ -1,0 +1,10 @@
+#Fri Oct 06 19:23:19 ART 2023
+base.0=/home/charlyz/Plantillas/VisualStudioCode/MiWeb/Alpha-Test/RosarioLive-APK/android/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/home/charlyz/Plantillas/VisualStudioCode/MiWeb/Alpha-Test/RosarioLive-APK/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/home/charlyz/Plantillas/VisualStudioCode/MiWeb/Alpha-Test/RosarioLive-APK/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/10/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=10/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RosarioLive</string>
+    <string name="title_activity_main">RosarioLive</string>
+    <string name="package_name">io.rosariolive.starter</string>
+    <string name="custom_url_scheme">io.rosariolive.starter</string>
+</resources>

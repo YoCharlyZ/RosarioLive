@@ -1,0 +1,3 @@
+io.rosariolive.starter.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
