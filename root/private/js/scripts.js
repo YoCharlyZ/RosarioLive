@@ -29,6 +29,12 @@ $(document).ready(function(){
       alert("que crees que vas a encontrar ahi?)")
       });
     });
+$(document).ready(function(){
+    $('#cafecito_link').on("click", function(){
+      $('#myView').toggle('slow');
+      alert("que crees que vas a encontrar ahi?)")
+      });
+    });
 
 // Selector
 $(document).ready(function () {
